@@ -1,0 +1,10 @@
+.eventTitle {
+  background-color: rgb(2, 83, 83);
+  /* background-color: rgb(18, 210, 210); */
+  color: white;
+  height: 200px;
+  /* text-align: center; */
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
